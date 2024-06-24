@@ -4,11 +4,11 @@
   "module": "index.js",
   "type": "module",
   "license": "MIT",
+  "author": "Glyn Marsh",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/glyn-marsh/huelength.git"
   },
-  "author": "Kelvin-Labs",
   "bugs": {
     "url": "https://github.com/glyn-marsh/huelength/issues"
   },
