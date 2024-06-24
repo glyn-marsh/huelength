@@ -6,13 +6,13 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Kelvin-Labs/Huelength.git"
+    "url": "git+https://github.com/glyn-marsh/huelength.git"
   },
   "author": "Kelvin-Labs",
   "bugs": {
-    "url": "https://github.com/Kelvin-Labs/Huelength/issues"
+    "url": "https://github.com/glyn-marsh/huelength/issues"
   },
-  "homepage": "https://github.com/Kelvin-Labs/Huelength#readme",
+  "homepage": "https://github.com/glyn-marsh/huelength#readme",
   "devDependencies": {
     "@types/bun": "latest"
   }
