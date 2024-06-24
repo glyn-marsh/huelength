@@ -13,6 +13,9 @@
     "url": "https://github.com/glyn-marsh/huelength/issues"
   },
   "homepage": "https://github.com/glyn-marsh/huelength#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "devDependencies": {
     "@types/bun": "latest"
   }
