@@ -1,20 +1,7 @@
 {
   "name": "huelength",
-  "description": "Huelength is a JavaScript library which can prosses a wavelength between 360 and 760 nanometers long, and return a color encoded in the RGB format.",
   "module": "index.js",
   "type": "module",
-  "keywords": "hue, color",
-  "license": "MIT",
-  "author": "Glyn Marsh",
-  "version": "1.0.0",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/glyn-marsh/huelength.git"
-  },
-  "bugs": {
-    "url": "https://github.com/glyn-marsh/huelength/issues"
-  },
-  "homepage": "https://github.com/glyn-marsh/huelength#readme",
   "devDependencies": {
     "@types/bun": "latest"
   }
