@@ -1,4 +1,4 @@
-export default function(wavelength) {
+export default function convert(wavelength) {
   let red, green, blue
 
   if((wavelength >= 380) && (wavelength<440)) {
